@@ -1,5 +1,5 @@
 {
-    "name": "mlaxwong/paw-plugin-installer",
+    "name": "betatech/paw-plugin-installer",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
