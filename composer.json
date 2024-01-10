@@ -13,6 +13,12 @@
             "paw\\plugin\\installer\\": "src/"
         }
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
     "require": {
         "composer-plugin-api": "^1.1|^2.0",
         "composer/composer": "^1.8"

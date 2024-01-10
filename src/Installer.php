@@ -10,7 +10,7 @@ use paw\plugin\installer\InvalidPluginException;
 
 class Installer extends LibraryInstaller
 {
-    const PLUGINS_FILE = 'mlaxwong/paw-plugins.php';
+    const PLUGINS_FILE = 'betatech/paw-plugins.php';
 
     public function supports($packageType)
     {
